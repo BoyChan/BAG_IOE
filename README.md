@@ -32,3 +32,8 @@ For VS IDE proceed as follows:
 ## Linux
 
 Qt 5.8, OpenSceneGraph 3.4 and osgEarth 2.8 both are supported in Linux, so the program may be compiled.
+
+![Demo1](https://github.com/BoyChan/BAG_IOE/Demo1.png)
+
+![Demo2](https://github.com/BoyChan/BAG_IOE/Demo2.png)
+
