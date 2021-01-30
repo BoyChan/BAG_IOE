@@ -35,7 +35,7 @@ Qt 5.8, OpenSceneGraph 3.4 and osgEarth 2.8 both are supported in Linux, so the 
 
 ## Demo 
 
-![](https://github.com/BoyChan/BAG_IOE/blob/main/Demo1.gif)
+![](https://github.com/BoyChan/BAG_IOE/raw/main/Demo1.gif)
 
-![](https://github.com/BoyChan/BAG_IOE/blob/main/Demo2.gif)
+![](https://github.com/BoyChan/BAG_IOE/raw/main/Demo2.gif)
 
