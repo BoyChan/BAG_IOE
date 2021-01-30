@@ -26,7 +26,7 @@ For VS IDE proceed as follows:
 1. Install Qt 5.8 (Desktop OpenGL version)
 2. Download [OpenSceneGraph 3.4.0](http://www.openscenegraph.org/) and [osgEarth 2.8](https://github.com/gwaldron/osgearth) , run CMake to build it and set the paths to Qt.
 3. Install Qt VS addin, configure it to use the same Qt files like the environment variable QTDIR. 
-4. Download "BAG_IOE-basic.zip".
+4. Download "BAG_IOE.rar".
 4. Open "MainWindow.sln" and set dependent environments.
 5. First compile "BIM" and then compile "MainWindow".
 
