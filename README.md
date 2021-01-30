@@ -14,12 +14,12 @@ The method is writen by C++/Qt and osgEarth in Microsoft Visual Studio 2015(x64)
 
 ### Windows
 
-## Dependent environments
+### Dependent environments
 * Windows 10 x64
 * Microsoft Visual Studio 2015(x64) and Qt VS addin
 * Qt 5.8 x64
 
-## Building instruction
+### Building instruction
 
 For VS IDE proceed as follows:
 
