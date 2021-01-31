@@ -14,7 +14,12 @@ The method is writen by C++/Qt and osgEarth in Microsoft Visual Studio 2015(x64)
 
 ### Windows
 
-### Dependent environments
+### Hardware Required
+
+A computer with 4 cores (2.4 GHz each), 8 GB RAM and better discrete graphics (such as NVIDIA GeForce GTX 1060).
+
+### Dependencies and environments
+
 * Windows 10 x64
 * Microsoft Visual Studio 2015(x64) and Qt VS addin
 * Qt 5.8 x64
