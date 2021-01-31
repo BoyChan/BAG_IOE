@@ -12,11 +12,12 @@ The method is writen by C++/Qt and osgEarth in Microsoft Visual Studio 2015(x64)
 
 ## Quick Start
 
-### Windows
 
 ### Hardware Required
 
 A computer with 4 cores (2.4 GHz each), 8 GB RAM and better discrete graphics (such as NVIDIA GeForce GTX 1060).
+
+### Windows
 
 ### Dependencies and environments
 
