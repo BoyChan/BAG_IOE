@@ -24,6 +24,8 @@ A computer with 4 cores (2.4 GHz each), 8 GB RAM and better discrete graphics (s
 * Windows 10 x64
 * Microsoft Visual Studio 2015(x64) and Qt VS addin
 * Qt 5.8 x64
+* OpenSceneGraph 3.4.0 
+* osgEarth 2.8
 
 ### Building instruction
 
